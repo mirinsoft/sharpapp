@@ -65,18 +65,18 @@ More information can be found [here](http://www.mirinsoft.com/ms-apps/sharpapp)
 ## How To Use
 
 * **[Download](https://github.com/mirinsoft/sharpapp/releases)** the latest version of SharpApp.
-* **Goto Privacy > Add privacy options** and install: `Basic template (for Beginners)`
-  * Goto policies > Select `basicPrivacyTemplate` from list > **Apply** or select your individual policies.
-* **Goto Apps > Remove preinstalled apps manually**
-  * or **download the Interactive  and-all-in-one (Advanced) Privacy template** (named `Windows10Debloater`) which will guide you with interactive prompts through the removal of bloatware and locking down other parts of Windows 10.
- * **Goto Telemetry > Block IP adresses of telemetry**
+* **Go to Privacy > Add privacy options** and install: `Basic template (for Beginners)`
+  * Go to policies > Select `basicPrivacyTemplate` from list > **Apply** or select your individual policies.
+* **Go to Apps > Remove preinstalled apps manually**
+  * or **download the Interactive and-all-in-one (Advanced) Privacy template** (named `Windows10Debloater`) which will guide you with interactive prompts through the removal of bloatware and locking down other parts of Windows 10.
+ * **Go to Telemetry > Block IP adresses of telemetry**
    * You can add here optional community rules provided by [crazy-max/WindowsSpyBlocker](https://github.com/crazy-max/WindowsSpyBlocker)
      Therefore you need to install the template `block telemetry via Hosts file` from the dashboard.
- * **Goto Packages > Install software packages**
+ * **Go to Packages > Install software packages**
    * This should be self explanatory! SharpApp uses the [Windows Package Manager](https://github.com/microsoft/winget-cli)
    
 * **[PROFFESIONAL TEMPLATE]** This template includes script files provided by [W4RH4WK/Debloat-Windows-10](https://github.com/W4RH4WK/Debloat-Windows-10/tree/master/scripts). **It's execution is done completely silent!**
- **SharpApp support six of these script files** All script files are descriped when selected.
+ **SharpApp support six of these script files** All script files are described when selected.
   * `block-telemetry` for blocking related domains via hosts file and Windows Firewall
   * `disable-services` for disabling unwanted telemetry services
   * `disable-windows-defender` for disabling Windows Defender via Group policies
