@@ -85,7 +85,7 @@ More information can be found [here](http://www.mirinsoft.com/ms-apps/sharpapp)
   * `remove-onedrive` for removing OneDrive Integration
   
 ## Marketplace
-Don't forget to check [SharpApp's Marketplace for more scripts files and templates](http://www.mirinsoft.com/sharpapp-marketplace)
+Don't forget to check [SharpApp's Marketplace for more scripts files and templates](http://www.mirinsoft.com/marketplace)
 
 ## Download
 
