@@ -13,14 +13,14 @@
 <img alt="Latest GitHub release" src="https://img.shields.io/github/release/builtbybel/sharpapp.svg?style=flat-square" />
 </a>
 	
-<a href="https://github.com/mirinsoft/sharpapp/releases" target="_blank">
+<a href="https://github.com/builtbybel/sharpapp/releases" target="_blank">
 <img alt="Downloads on GitHub" src="https://img.shields.io/github/downloads/builtbybel/sharpapp/total.svg?style=flat-square" />
 </a>
 
-<a href="https://github.com/mirinsoft/sharpapp/commits/master">
+<a href="https://github.com/builtbybel/sharpapp/commits/master">
 <img src="https://img.shields.io/github/last-commit/builtbybel/sharpapp.svg?style=flat-square&logo=github&logoColor=white"
 alt="GitHub last commit">
-<a href="https://github.com/mirinsoft/sharpapp/issues">
+<a href="https://github.com/builtbybel/sharpapp/issues">
 <img src="https://img.shields.io/github/issues-raw/builtbybel/sharpapp.svg?style=flat-square&logo=github&logoColor=white"
 alt="GitHub issues">   
   
@@ -64,7 +64,7 @@ More information can be found [here](http://www.builtbybel.com/ms-apps/sharpapp)
 
 ## How To Use
 
-* **[Download](https://github.com/mirinsoft/sharpapp/releases)** the latest version of SharpApp.
+* **[Download](https://github.com/builtbybel/sharpapp/releases)** the latest version of SharpApp.
 * **Go to Privacy > Add privacy options** and install: `Basic template (for Beginners)`
   * Go to policies > Select `basicPrivacyTemplate` from list > **Apply** or select your individual policies.
 * **Go to Apps > Remove preinstalled apps manually**
@@ -106,5 +106,4 @@ Donationware (private and commercial use)
 > [builtbybel](https://www.builtbybel.com) &nbsp;&middot;&nbsp;
 > GitHub [@builtbybel](https://github.com/builtbybel) &nbsp;&middot;&nbsp;
 > Twitter [@builtbybel](https://twitter.com/builtbybel)
-
 
